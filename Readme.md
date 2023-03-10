@@ -10,7 +10,7 @@ I penned this message to Prime Minister Chris Hipkins, Finance Minister Grant Ro
 
 Tena koe Prime Minister Hipkins,
 
-The Dominion Post has reporting that the Minister of Finance the Hon Grant Robertson has said that <a href="https://www.stuff.co.nz/business/opinion-analysis/131288785/tom-pullarstrecker-cyclone-leaves-less-room-to-deal-with-more-shocks">billions of dollars</a> will be needed for the recovery from Cyclone Gabrielle. I don't think anyone reasonable is disagreeing with him about the scale of the challenge helping impacted communities.
+The Dominion Post has reported that the Minister of Finance the Hon Grant Robertson has said that <a href="https://www.stuff.co.nz/business/opinion-analysis/131288785/tom-pullarstrecker-cyclone-leaves-less-room-to-deal-with-more-shocks">billions of dollars</a> will be needed for the recovery from Cyclone Gabrielle. I don't think anyone reasonable is disagreeing with him about the scale of the challenge helping impacted communities.
 
 I have a suggestion to help provide funds for Cyclone Gabrielle without either raising new taxes or new borrowing or by reducing funding of important existing programs.  
 
@@ -34,7 +34,7 @@ Let's make a bar plot of the free emission units given to emitters under the Ind
 
 ![](Industrial-Allocation-barplot-2023-2027-720-540.svg)
 
-The Ministry for the Environment says that the spot market NZU price has followed the cost containment reserve trigger price [page 25 of the consultation document](https://environment.govt.nz/publications/proposed-changes-to-new-zealand-emissions-trading-scheme-limit-and-price-control-settings-for-units-2022-consultation-document/) "Proposed changes to New Zealand Emissions Trading Scheme limit and price control settings for units 2022".
+The Ministry for the Environment says that the spot market NZU price has followed the cost containment reserve trigger price (See [page 25 of the consultation document](https://environment.govt.nz/publications/proposed-changes-to-new-zealand-emissions-trading-scheme-limit-and-price-control-settings-for-units-2022-consultation-document/) "Proposed changes to New Zealand Emissions Trading Scheme limit and price control settings for units 2022").
 * <i>"Since the NZ ETS closed to international markets in 2015, the market price of NZUs has closely tracked the upper limit price controls, the $25 and then $35 fixed price option, and the more recent $50 and then $70 cost containment reserve trigger price."</i>
 
 ![](p25-MfE-proposedchanges-2022.png)
