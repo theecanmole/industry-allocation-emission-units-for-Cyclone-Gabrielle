@@ -2,7 +2,7 @@
 
 ## End the subsidy of 'industry allocation' the subsidized free emission units given to emissions intensive industry
 
-Every year since 2010, emissions intensive emitters have received a subsidy of millions of free emissions units under the emissions trading scheme ("https://www.epa.govt.nz/industry-areas/emissions-trading-scheme/industrial-allocations/decisions/")[industrial allocation] rules.
+Every year since 2010, emissions intensive emitters have received a subsidy of millions of free emissions units under the emissions trading scheme [industrial allocation]("https://www.epa.govt.nz/industry-areas/emissions-trading-scheme/industrial-allocations/decisions/") rules.
 
 Is it still morally conscionable for the emissions trading scheme to keep giving emitters millions of dollars worth of free emissions units, when the costs of recovery from the climate tragedy Cyclone Gabrielle are going to be billions of dollars?
 
@@ -16,7 +16,7 @@ I have a suggestion to help provide funds for Cyclone Gabrielle without either r
 
 The Ministry for the Environment and the Climate Change Commission both expect that in calendar year 2023, 6.4 million emissions units will be allocated at no cost to industries.
 
-At ("https://www.carbonnews.co.nz/story.asp?storyID=27088")[Tuesday's spot price of $67.50], these units would be valued at $432 million. My suggestion is to quickly amend the Climate Change Response Act 2002 (or it's related regulations) and add the industrial allocation units to the quarterly auctions of emission units and commit the proceeds to recovery from Cyclone Gabrielle.
+At [Tuesday's spot price of $67.50]("https://www.carbonnews.co.nz/story.asp?storyID=27088"), these units would be valued at $432 million. My suggestion is to quickly amend the Climate Change Response Act 2002 (or it's related regulations) and add the industrial allocation units to the quarterly auctions of emission units and commit the proceeds to recovery from Cyclone Gabrielle.
 
 You will need to get officials to act promptly as emitters will be applying for units from January to April 2023.
 
@@ -26,7 +26,7 @@ What could be a better source of funding for recovery from a climate crisis even
 
 Nga mihi.
 
-Some background. The Climate Change Commission's estimate of the free emission units allocated is from page 38 of their report ("https://www.climatecommission.govt.nz/our-work/advice-to-government-topic/nz-ets/our-advice-on-the-nz-ets/nz-ets-unit-limits-and-price-control-settings-for-2023-2027/")[Advice on NZ ETS unit limits and price control settings for 2023-2027].
+Some background. The Climate Change Commission's estimate of the free emission units allocated is from page 38 of their report [Advice on NZ ETS unit limits and price control settings for 2023-2027]("https://www.climatecommission.govt.nz/our-work/advice-to-government-topic/nz-ets/our-advice-on-the-nz-ets/nz-ets-unit-limits-and-price-control-settings-for-2023-2027/").
 
 ![](Findingsonfreeallocation.png)
 
@@ -34,7 +34,7 @@ Let's make a bar plot of the free emission units given to emitters under the Ind
 
 ![](Industrial-Allocation-barplot-2023-2027-720-540.svg)
 
-The Ministry for the Environment says that the spot market NZU price has followed the cost containment reserve trigger price ("https://environment.govt.nz/publications/proposed-changes-to-new-zealand-emissions-trading-scheme-limit-and-price-control-settings-for-units-2022-consultation-document/")[page 25 of the consultation document] "Proposed changes to New Zealand Emissions Trading Scheme limit and price control settings for units 2022".
+The Ministry for the Environment says that the spot market NZU price has followed the cost containment reserve trigger price [page 25 of the consultation document]("https://environment.govt.nz/publications/proposed-changes-to-new-zealand-emissions-trading-scheme-limit-and-price-control-settings-for-units-2022-consultation-document/") "Proposed changes to New Zealand Emissions Trading Scheme limit and price control settings for units 2022".
 * <i>"Since the NZ ETS closed to international markets in 2015, the market price of NZUs has closely tracked the upper limit price controls, the $25 and then $35 fixed price option, and the more recent $50 and then $70 cost containment reserve trigger price."</i>
 
 ![](p25-MfE-proposedchanges-2022.png)
@@ -42,9 +42,9 @@ The Ministry for the Environment says that the spot market NZU price has followe
 What is the cost containment reserve trigger price? The Climate Change Commission says: 
 * <i>"The cost containment reserve (CCR) is a reserve of NZUs available for sale if the auction clearing price is at or above a specified trigger price".</i>
 
-The cost containment reserve trigger price is set in ("https://legislation.govt.nz/regulation/public/2020/0264/latest/LMS376569.html")[Schedule 3] of the Climate Change (Auctions, Limits, and Price Controls for Units) Regulations 2020.
+The cost containment reserve trigger price is set in [Schedule 3]("https://legislation.govt.nz/regulation/public/2020/0264/latest/LMS376569.html") of the Climate Change (Auctions, Limits, and Price Controls for Units) Regulations 2020.
 
-The reserve trigger prices are also listed on the Ministry for the Environment's website at (https://environment.govt.nz/what-government-is-doing/areas-of-work/climate-change/ets/nz-ets-market/emission-unit-prices-and-controls/)[Price control settings].
+The reserve trigger prices are also listed on the Ministry for the Environment's website at [Price control settings](https://environment.govt.nz/what-government-is-doing/areas-of-work/climate-change/ets/nz-ets-market/emission-unit-prices-and-controls/).
 
 Clearly we need a bar plot of the cost containment reserve trigger prices out to 2027.
 
