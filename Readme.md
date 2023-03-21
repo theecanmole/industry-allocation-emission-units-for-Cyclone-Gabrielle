@@ -8,23 +8,23 @@ Is it still morally conscionable for the emissions trading scheme to keep giving
 
 I penned this message to Prime Minister Chris Hipkins, Finance Minister Grant Robertson and Minister for Climate Change James Shaw.
 
-*Tena koe Prime Minister Hipkins,
+*Tena koe Prime Minister Hipkins*,
 
-The Dominion Post has reported that the Minister of Finance the Hon Grant Robertson has said that <a href="https://www.stuff.co.nz/business/opinion-analysis/131288785/tom-pullarstrecker-cyclone-leaves-less-room-to-deal-with-more-shocks">billions of dollars</a> will be needed for the recovery from Cyclone Gabrielle. I don't think anyone reasonable is disagreeing with him about the scale of the challenge helping impacted communities.
+*The Dominion Post has reported that the Minister of Finance the Hon Grant Robertson has said that <a href="https://www.stuff.co.nz/business/opinion-analysis/131288785/tom-pullarstrecker-cyclone-leaves-less-room-to-deal-with-more-shocks">billions of dollars</a> will be needed for the recovery from Cyclone Gabrielle. I don't think anyone reasonable is disagreeing with him about the scale of the challenge helping impacted communities*.
 
-I have a suggestion to help provide funds for Cyclone Gabrielle without either raising new taxes or new borrowing or by reducing funding of important existing programs.  
+*I have a suggestion to help provide funds for Cyclone Gabrielle without either raising new taxes or new borrowing or by reducing funding of important existing programs*.  
 
-The Ministry for the Environment and the Climate Change Commission both expect that in calendar year 2023, 6.4 million emissions units will be allocated at no cost to industries.
+*The Ministry for the Environment and the Climate Change Commission both expect that in calendar year 2023, 6.4 million emissions units will be allocated at no cost to industries*.
 
-At [Tuesday's spot price of $67.50](https://www.carbonnews.co.nz/story.asp?storyID=27088), these units would be valued at $432 million. My suggestion is to quickly amend the Climate Change Response Act 2002 (or it's related regulations) and add the industrial allocation units to the quarterly auctions of emission units and commit the proceeds to recovery from Cyclone Gabrielle.
+*At [Tuesday's spot price of $67.50](https://www.carbonnews.co.nz/story.asp?storyID=27088), these units would be valued at $432 million. My suggestion is to quickly amend the Climate Change Response Act 2002 (or it's related regulations) and add the industrial allocation units to the quarterly auctions of emission units and commit the proceeds to recovery from Cyclone Gabrielle*.
 
-You will need to get officials to act promptly as emitters will be applying for units from January to April 2023.
+*You will need to get officials to act promptly as emitters will be applying for units from January to April 2023*.
 
-As the amount of forecast allocation units is over 6 million units through to 2027, there is an ongoing stream of about 400 to 500 million dollars (depending on unit prices) available for another 5 years.
+*As the amount of forecast allocation units is over 6 million units through to 2027, there is an ongoing stream of about 400 to 500 million dollars (depending on unit prices) available for another 5 years*.
 
-What could be a better source of funding for recovery from a climate crisis event than diverting funding from emitter industries?"
+*What could be a better source of funding for recovery from a climate crisis event than diverting funding from emitter industries*?
 
-Nga mihi*.
+*Nga mihi*.
 
 Some background. The Climate Change Commission's estimate of the free emission units allocated is from page 38 of their report [Advice on NZ ETS unit limits and price control settings for 2023-2027](https://www.climatecommission.govt.nz/our-work/advice-to-government-topic/nz-ets/our-advice-on-the-nz-ets/nz-ets-unit-limits-and-price-control-settings-for-2023-2027/).
 
